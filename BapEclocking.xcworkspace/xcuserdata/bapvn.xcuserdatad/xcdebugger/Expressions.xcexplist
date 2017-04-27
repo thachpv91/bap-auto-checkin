@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MainViewController checkInCheckOut]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_todayStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignInViewController signInClick:]:SignInViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_txtEmail.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__44-[MainViewController startObservingDatabase]_block_invoke:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableData">
+            </PersistentString>
+            <PersistentString
+               value = "self.tableData.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController tableView:cellForRowAtIndexPath:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableData">
+            </PersistentString>
+            <PersistentString
+               value = "self.tableData[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
